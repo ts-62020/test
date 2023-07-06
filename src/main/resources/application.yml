@@ -20,5 +20,5 @@ spring:
     baselineVersion: 0.0.000
     locations: classpath:db/migration
     out-of-order: true
-    schemas: geaid
-    enabled: false
+    schemas: test
+    enabled: true
